@@ -6,6 +6,7 @@ Currently, I am on a journey to build a solid foundation in Data Science. I am f
 
 - **Excel & Power Query** (Data Cleaning)
 - **Power BI** (Visualization)
+- SQL & MS Access (Database Management)
 - **Python** (Data Analysis & Automation)
 
 My goal is to document my learning progress and share my first projects here.
