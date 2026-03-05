@@ -1,1 +1,1 @@
-# Projekty SQL
+# Projekty Excel/Power Querry
