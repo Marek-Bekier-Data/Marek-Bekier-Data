@@ -7,7 +7,7 @@ This section documents my progress in mastering SQL, from database design to com
 
 | Module | Topic | Key Concepts | Status |
 | :--- | :--- | :--- | :--- |
-| **01** | [DDL & Data Management](./Lekcja-01-Podstawy-DDL/) | CREATE, UPDATE, DROP, CSV Import | ✅ Done |
+| **01** | [DDL & Data Management](./Lesson-01-DDL-Fundamentials/) | CREATE, UPDATE, DROP, CSV Import | ✅ Done |
 
 ## 🛠️ Tech Stack
 *   **Database:** SQLite (via SQLiteOnline), BigQuery
