@@ -1,5 +1,7 @@
 [🏠 Main Portfolio](../../README.md) / [🔍 SQL Journey](../README.md) / **Lesson-01-DDL-Fundamentals**
 
+[📄 View Raw SQL Script](./Lesson-01-queries.sql)
+
 # 📊 Lesson 1: DDL, DML, DQL Fundamentals & Data Import
 
 First steps in working with relational databases. I focused on defining database structures and preparing data for analysis.
