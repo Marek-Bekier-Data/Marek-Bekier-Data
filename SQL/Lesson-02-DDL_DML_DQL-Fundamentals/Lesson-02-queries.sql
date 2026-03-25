@@ -5,6 +5,27 @@
 -- Focus: Data manipulation and analytical queries
 -- ======================================================
 
+-- ======================================================
+-- 0. Database Schema Setup (Required for CSV import)
+-- ======================================================
+/*
+CREATE TABLE baza_danych1 (
+    Lp INT,
+    imie VARCHAR(255),
+    nazwisko VARCHAR(255),
+    ulica VARCHAR(255),
+    numer_mieszkania INT,
+    uczelnia VARCHAR(255),
+    zawod VARCHAR(255),
+    plec CHAR(1),
+    wzrost INT,
+    miasto VARCHAR(255),
+    wojewodztwo VARCHAR(255),
+    punkty INT
+);
+*/
+
+
 -- 1. Range Selection (BETWEEN)
 -- Goal: Retrieve records where names fall within a specific alphabetical range.
 SELECT imie, nazwisko 
