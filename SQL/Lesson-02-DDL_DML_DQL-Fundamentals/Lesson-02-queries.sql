@@ -21,7 +21,7 @@ CREATE TABLE baza_danych1 (
     wzrost INT,
     miasto VARCHAR(255),
     wojewodztwo VARCHAR(255),
-    punkty INT
+    Punkty INT
 );
 */
 
