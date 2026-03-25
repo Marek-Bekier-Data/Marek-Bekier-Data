@@ -1,6 +1,8 @@
 <!-- Breadcrumb Navigation -->
 [🏠 Home](../../README.md) / [📂 SQL Learning](../README.md) / **📊 Lesson 2**
 
+[📄 View Raw SQL Script](./Lesson-02-queries.sql)
+
 ---
 
 # 📊 Lesson 2: Advanced Filtering, Sorting & Aggregations
