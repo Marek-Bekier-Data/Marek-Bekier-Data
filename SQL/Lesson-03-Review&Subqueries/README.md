@@ -1,6 +1,6 @@
 # 🏠 Main Portfolio / 🔍 SQL Journey / Lesson-03-Review-Subqueries
  
-📄 [View Raw SQL Script](./lekcja_3_SQL_Subqueries.sql)  
+📄 [View Raw SQL Script](./lesson_3_SQL_Subqueries.sql)  
 🗄️ [View Database](./baza_danych-1.csv)
  
 ---
